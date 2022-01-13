@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ Dinesh sai
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Datascience & A.I.
-- 💞️ I’m looking to collaborate on ML and A.I
 - 📫 How to reach me @ linkedin.com/in/dinesh-sai-89081175
 
 <!---
